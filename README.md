@@ -1,16 +1,8 @@
 # mi_card
 
-A new Flutter application.
+A Flutter Application with a card that contains personal information of a person.
 
-## Getting Started
+## From 
+2nd Application of the course "The Complete 2020 Flutter Development Bootcamp with Dart" created with collaboration with Google Flutter Team and instructed by Dr. Angela Yu, Lead Instructor at the London App Brewery.  
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
